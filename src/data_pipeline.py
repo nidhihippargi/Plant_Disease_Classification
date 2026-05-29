@@ -52,6 +52,16 @@ val_generator = val_datagen.flow_from_directory(
     class_mode="categorical",
     shuffle=False
 )
+# Test generator
+TEST_DIR = os.path.join(BASE_DIR, "test")
+
+test_generator = val_datagen.flow_from_directory(
+    TEST_DIR,
+    target_size=IMG_SIZE,
+    batch_size=BATCH_SIZE,
+    class_mode="categorical",
+    shuffle=False
+)
 
 # ─────────────────────────────────────────────
 # CLASS INFO
@@ -90,5 +100,6 @@ def verify_batch(generator, name="Generator"):
 
 verify_batch(train_generator, "Train")
 verify_batch(val_generator,   "Val")
+verify_batch(test_generator,  "Test")
 
 print("\n✅ Data pipeline ready! Generators can be imported for MobileNetV2 training.")
