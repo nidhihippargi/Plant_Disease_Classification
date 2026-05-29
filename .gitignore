@@ -1,0 +1,11 @@
+
+data/
+venv/
+venv_win/
+venv311/
+__pycache__/
+*.pyc
+*.png
+*.jpg
+*.zip
+.env
