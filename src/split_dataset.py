@@ -5,7 +5,7 @@ import random
 from pathlib import Path
 
 # PATHS
-BASE_DIR  = r"C:\Users\tanis\OneDrive\Apps\DL project\data\raw\New Plant Diseases Dataset(Augmented)\New Plant Diseases Dataset(Augmented)"
+BASE_DIR = "dataset/New Plant Diseases Dataset(Augmented)/New Plant Diseases Dataset(Augmented)"
 TRAIN_DIR = os.path.join(BASE_DIR, "train")
 VALID_DIR = os.path.join(BASE_DIR, "valid")
 TEST_DIR  = os.path.join(BASE_DIR, "test")

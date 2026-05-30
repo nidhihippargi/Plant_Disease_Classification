@@ -1,4 +1,6 @@
-
+dataset/
+*.keras
+scratch/
 data/
 venv/
 venv_win/
