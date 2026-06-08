@@ -424,6 +424,33 @@ The codebase is modular, documented, and structured for the natural next steps: 
 
 ---
 
+## 👥 Team Contributions
+
+### Tanisha Baslas
+- Dataset preparation and organization
+- Data preprocessing pipeline development
+- Dataset cleaning and class distribution management
+- Data augmentation configuration
+- Input pipeline setup for model training
+
+### Nidhi Hippargi
+- MobileNetV2 transfer learning implementation
+- Model architecture design and customization
+- Training pipeline development
+- Hyperparameter selection and experimentation
+- Weighted Focal Loss integration
+- Model training, optimization, and performance improvement
+- GitHub repository management and project integration
+
+### Kunal Kapri
+- Model evaluation and testing
+- Classification report generation
+- Confusion matrix analysis
+- Accuracy and loss visualization generation
+- Prediction pipeline implementation
+- Sample prediction generation and confidence score visualization
+- Documentation support and result interpretation
+
 ## 🤝 Contributing
 
 Contributions are welcome. Please open an issue to discuss proposed changes before submitting a pull request. For significant changes, include relevant test results or evaluation metrics.
