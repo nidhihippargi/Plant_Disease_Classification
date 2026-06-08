@@ -41,6 +41,7 @@
 - [Engineering Achievements](#-engineering-achievements)
 - [Future Work](#-future-work)
 - [Conclusion](#-conclusion)
+- [Team Contributions](#team-contributions)
 - [Contributing](#-contributing)
 - [License](#-license)
 
