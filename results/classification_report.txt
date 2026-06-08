@@ -1,0 +1,48 @@
+=== FINAL TRANSFERRED MODEL METRICS PER CLASS OBJECT EVALUATION REPORT ===
+Source Extracted Model Model Backbone: MobileNetV2 + Custom Classifier Head
+Target Global Scope Class Counts: 38 Distinct Targets
+
+                                                    precision    recall  f1-score   support
+
+                                Apple___Apple_scab     0.9392    0.9802    0.9592       252
+                                 Apple___Black_rot     0.9837    0.9718    0.9777       248
+                          Apple___Cedar_apple_rust     0.9897    0.8773    0.9301       220
+                                   Apple___healthy     0.9803    0.9920    0.9861       251
+                               Blueberry___healthy     0.9660    1.0000    0.9827       227
+          Cherry_(including_sour)___Powdery_mildew     0.9953    1.0000    0.9976       210
+                 Cherry_(including_sour)___healthy     0.9956    0.9956    0.9956       228
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot     0.9296    0.9024    0.9158       205
+                       Corn_(maize)___Common_rust_     0.9958    0.9958    0.9958       238
+               Corn_(maize)___Northern_Leaf_Blight     0.9061    0.9328    0.9193       238
+                            Corn_(maize)___healthy     0.9915    1.0000    0.9957       232
+                                 Grape___Black_rot     0.9669    0.9915    0.9791       236
+                      Grape___Esca_(Black_Measles)     0.9915    0.9750    0.9832       240
+        Grape___Leaf_blight_(Isariopsis_Leaf_Spot)     0.9907    0.9953    0.9930       215
+                                   Grape___healthy     1.0000    0.9668    0.9831       211
+          Orange___Haunglongbing_(Citrus_greening)     0.9960    1.0000    0.9980       251
+                            Peach___Bacterial_spot     0.9783    0.9825    0.9804       229
+                                   Peach___healthy     0.9953    0.9861    0.9907       216
+                     Pepper,_bell___Bacterial_spot     0.9592    0.9833    0.9711       239
+                            Pepper,_bell___healthy     0.9874    0.9516    0.9692       248
+                             Potato___Early_blight     0.9836    0.9917    0.9877       242
+                              Potato___Late_blight     0.9705    0.9504    0.9603       242
+                                  Potato___healthy     0.9040    0.9912    0.9456       228
+                               Raspberry___healthy     1.0000    0.9369    0.9674       222
+                                 Soybean___healthy     1.0000    0.9722    0.9859       252
+                           Squash___Powdery_mildew     1.0000    1.0000    1.0000       217
+                          Strawberry___Leaf_scorch     1.0000    0.9865    0.9932       222
+                              Strawberry___healthy     0.9344    1.0000    0.9661       228
+                           Tomato___Bacterial_spot     0.8995    0.9292    0.9142       212
+                             Tomato___Early_blight     0.9016    0.7250    0.8037       240
+                              Tomato___Late_blight     0.9234    0.8874    0.9051       231
+                                Tomato___Leaf_Mold     0.8987    0.9064    0.9025       235
+                       Tomato___Septoria_leaf_spot     0.7370    0.9128    0.8156       218
+     Tomato___Spider_mites Two-spotted_spider_mite     0.9095    0.8802    0.8946       217
+                              Tomato___Target_Spot     0.8151    0.8509    0.8326       228
+            Tomato___Tomato_Yellow_Leaf_Curl_Virus     0.9915    0.9551    0.9730       245
+                      Tomato___Tomato_mosaic_virus     0.9676    0.9330    0.9500       224
+                                  Tomato___healthy     0.9433    0.9708    0.9569       240
+
+                                          accuracy                         0.9545      8777
+                                         macro avg     0.9557    0.9542    0.9542      8777
+                                      weighted avg     0.9562    0.9545    0.9546      8777

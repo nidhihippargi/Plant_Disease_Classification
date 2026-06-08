@@ -153,8 +153,8 @@ def run_evaluation(model_path, test_dir, results_dir='results'):
 
 if __name__ == '__main__':
     # Adjust paths configuration declarations below depending on explicit target structure locations
-    MODEL_FILE_TARGET = 'models/plant_disease_classifier.keras'
-    TEST_DATA_DIR = 'data/test' 
+    MODEL_FILE_TARGET = './plant_disease_model.keras'
+    TEST_DATA_DIR = 'dataset/New Plant Diseases Dataset(Augmented)/New Plant Diseases Dataset(Augmented)/test' 
     
     # Default structural placeholder adjustments to verify directories on demand execution execution
     if not os.path.exists('models'):

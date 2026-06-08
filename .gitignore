@@ -11,3 +11,5 @@ __pycache__/
 *.jpg
 *.zip
 .env
+venv/
+dataset/
