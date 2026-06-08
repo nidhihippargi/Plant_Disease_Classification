@@ -41,7 +41,7 @@
 - [Engineering Achievements](#-engineering-achievements)
 - [Future Work](#-future-work)
 - [Conclusion](#-conclusion)
-- [Team Contributions](#team-contributions)
+- [Team Contributions](#-team-contributions)
 - [Contributing](#-contributing)
 - [License](#-license)
 
@@ -427,14 +427,14 @@ The codebase is modular, documented, and structured for the natural next steps: 
 
 ## 👥 Team Contributions
 
-### Tanisha Baslas
+### [Tanisha Baslas](https://github.com/TanishaBaslas)
 - Dataset preparation and organization
 - Data preprocessing pipeline development
 - Dataset cleaning and class distribution management
 - Data augmentation configuration
 - Input pipeline setup for model training
 
-### Nidhi Hippargi
+### [Nidhi Hippargi](https://github.com/nidhihippargi)
 - MobileNetV2 transfer learning implementation
 - Model architecture design and customization
 - Training pipeline development
@@ -443,7 +443,7 @@ The codebase is modular, documented, and structured for the natural next steps: 
 - Model training, optimization, and performance improvement
 - GitHub repository management and project integration
 
-### Kunal Kapri
+### [Kunal Kapri](https://github.com/Kunal-Kapri)
 - Model evaluation and testing
 - Classification report generation
 - Confusion matrix analysis
@@ -466,10 +466,9 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## ⭐ Support
 
-If this project was useful, consider starring the repository — it helps others find it.
+If this project helped you learn about deep learning, computer vision, or agricultural disease detection, consider giving the repository a ⭐.
 
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/plant-disease-classification?style=social)](https://github.com/nidhihippargi/Plant_Disease_Classification)
-
+[![GitHub Repo stars](https://img.shields.io/github/stars/nidhihippargi/Plant_Disease_Classification?style=social)](https://github.com/nidhihippargi/Plant_Disease_Classification)
 ---
 
 <div align="center">
